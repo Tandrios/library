@@ -3,3 +3,13 @@
     margin: 0px;
     padding: 0px;
 }
+
+.main {
+    display: flex;
+    gap: 3em;
+    padding: 3em;
+}
+
+.card {
+    border: 1px solid black;
+}
